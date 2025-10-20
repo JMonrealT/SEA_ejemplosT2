@@ -1,6 +1,8 @@
 # SEA - Ejemplos Interactivos Tema 2
 
-Repositorio de ejemplos prácticos para el **Tema 2** de la asignatura **Sistemas Embebidos Avanzados** (SEA).
+Este repositorio contiene ejemplos prácticos organizados de Bash, C, GCC, GDB y herramientas de compilación como parte de la asignatura **Sistemas Embebidos Avanzados (SEA)** del **Máster Universitario en Ingeniería de Sistemas Electrónicos (MUISE)** de la **Universitat Politècnica de València (UPV)**, año 2025.
+
+Cubre desde conceptos básicos de scripting en Bash hasta temas avanzados de compilación, depuración y gestión de proyectos en sistemas Linux, con ejercicios prácticos, ejemplos de código y documentación detallada.
 
 ## 📋 Contenido
 
