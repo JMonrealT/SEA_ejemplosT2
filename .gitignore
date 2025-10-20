@@ -1,0 +1,26 @@
+# Archivos compilados
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Directorios generados por make
+obj/
+lib/
+
+# Ejecutables
+example
+2_3_1_gdbexample/example
+2_4_1_static_libs/example
+2_4_2_dynamic_libs/example
+2_5_1_cmake/build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
